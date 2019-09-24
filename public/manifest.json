@@ -1,0 +1,8 @@
+{
+  "short_name": "The Clicky Game",
+  "name": "The Clicky Memory Game",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "blue",
+  "background_color": "white"
+}
